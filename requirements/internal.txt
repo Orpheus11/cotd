@@ -1,0 +1,1 @@
+git+ssh://git@gitlab.intra.daixiaomi.com/daixm/daixm-common.git
